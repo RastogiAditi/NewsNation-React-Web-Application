@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1000,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CHIP Online Deutschland",
+            "title": "Neues Gesetz greift: Darum werden Getränke in Deutschland bald deutlich teurer - CHIP Online Deutschland",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9OZXVlcy1HZXNldHotaW4tRGV1dHNjaGxhbmQtRGFydW0tZHVlcmZ0ZW4tR2V0cmFlbmtlLWJhbGQtdGV1cmVyLXdlcmRlbl8xODQ5MjcxMjguaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T10:21:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "MARCA.com",
+            "title": "Mini Cooper y Countryman 2024: los eléctricos mandan - MARCA.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm1hcmNhLmNvbS9jb2NoZXMteS1tb3Rvcy9jb2NoZXMvbWluaS8yMDIzLzA5LzAzLzY0ZjQ0ZWY4Y2E0NzQxZmQ1ZjhiNDViMS5odG1s0gFZaHR0cHM6Ly9hbXAubWFyY2EuY29tL2NvY2hlcy15LW1vdG9zL2NvY2hlcy9taW5pLzIwMjMvMDkvMDMvNjRmNDRlZjhjYTQ3NDFmZDVmOGI0NWIxLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T10:05:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "elEconomista",
+            "title": "El teléfono fijo resiste en los hogares gracias a los servicios empaquetados - elEconomista",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5lbGVjb25vbWlzdGEuZXMvYWN0dWFsaWRhZC9ub3RpY2lhcy8xMjQyODYwOS8wOS8yMy9lbC10ZWxlZm9uby1maWpvLXJlc2lzdGUtZW4tbG9zLWhvZ2FyZXMtZ3JhY2lhcy1hLWxvcy1zZXJ2aWNpb3MtZW1wYXF1ZXRhZG9zLmh0bWzSAYABaHR0cHM6Ly93d3cuZWxlY29ub21pc3RhLmVzL2FjdHVhbGlkYWQvYW1wLzEyNDI4NjA5L2VsLXRlbGVmb25vLWZpam8tcmVzaXN0ZS1lbi1sb3MtaG9nYXJlcy1ncmFjaWFzLWEtbG9zLXNlcnZpY2lvcy1lbXBhcXVldGFkb3M?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T10:04:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "MarketData",
+            "title": "Conoce el índice PMI y su capacidad para predecir el rumbo de la economía mundial - MarketData",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL21hcmtldGRhdGEuY29tLnB5L2VkdWNhY2lvbi9lY29ub21pYS1mYWNpbC9jb25vY2UtZWwtaW5kaWNlLXBtaS15LXN1LWNhcGFjaWRhZC1wYXJhLXByZWRlY2lyLWVsLXJ1bWJvLWRlLWxhLWVjb25vbWlhLW11bmRpYWwtMTE2MTcyL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BFM Immo",
+            "title": "Les chauffagistes doivent prévenir leurs clients des risques liés à la livraison de granulés de bois - BFM Immo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5iZm10di5jb20vaW1tb2JpbGllci9sZXMtY2hhdWZmYWdpc3Rlcy1kb2l2ZW50LXByZXZlbmlyLWxldXJzLWNsaWVudHMtZGVzLXJpc3F1ZXMtbGllcy1hLWxhLWxpdnJhaXNvbi1kZS1ncmFudWxlcy1kZS1ib2lzX0FELTIwMjMwOTAzMDE3OC5odG1s0gGeAWh0dHBzOi8vd3d3LmJmbXR2LmNvbS9hbXAvaW1tb2JpbGllci9sZXMtY2hhdWZmYWdpc3Rlcy1kb2l2ZW50LXByZXZlbmlyLWxldXJzLWNsaWVudHMtZGVzLXJpc3F1ZXMtbGllcy1hLWxhLWxpdnJhaXNvbi1kZS1ncmFudWxlcy1kZS1ib2lzX0FELTIwMjMwOTAzMDE3OC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:52:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo News Australia",
+            "title": "Woolworths customer hits out at frustrating self-serve checkout feature - Yahoo News Australia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXUubmV3cy55YWhvby5jb20vd29vbHdvcnRocy1jdXN0b21lci1mcnVzdHJhdGluZy1zZWxmLXNlcnZlLWNoZWNrb3V0LWZlYXR1cmUtMDk0MjUyNjExLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:42:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La Vanguardia",
+            "title": "El bonito gesto de una pareja con un restaurante en el que fueron intoxicados: \"la mujer temblaba\" - La Vanguardia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmxhdmFuZ3VhcmRpYS5jb20vY3JpYmVvLzIwMjMwOTAzLzkyMDIxMTkvYm9uaXRvLWdlc3RvLXBhcmVqYS1yZXN0YXVyYW50ZS1pbnRveGljYWRvcy1tdWplci10ZW1ibGFiYS5odG1s0gF4aHR0cHM6Ly93d3cubGF2YW5ndWFyZGlhLmNvbS9jcmliZW8vMjAyMzA5MDMvOTIwMjExOS9ib25pdG8tZ2VzdG8tcGFyZWphLXJlc3RhdXJhbnRlLWludG94aWNhZG9zLW11amVyLXRlbWJsYWJhLmFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:33:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Merkur.de",
+            "title": "Nach 100 Jahren: Traditions-Versandhändler stellt Ende Januar Betrieb ein - Merkur.de",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm1lcmt1ci5kZS93aXJ0c2NoYWZ0L2Vpbi10cmFkaXRpb25zLXZlcnNhbmRoYWVuZGxlci1rbGluZ2VsLWluc29sdmVudC1zdGVsbHQtZW5kZS1qYW51YXItYmV0cmllYi16ci05MjQ4NjM1OS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:30:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "FRANCE 24 Español",
+            "title": "¿Puede la inteligencia artificial ayudar a descarbonizar las empresas? - FRANCE 24 Español",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lcy9taW51dG8tYS1taW51dG8vMjAyMzA5MDMtcHVlZGUtbGEtaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWwtYXl1ZGFyLWEtZGVzY2FyYm9uaXphci1sYXMtZW1wcmVzYXPSAXlodHRwczovL2FtcC5mcmFuY2UyNC5jb20vZXMvbWludXRvLWEtbWludXRvLzIwMjMwOTAzLXB1ZWRlLWxhLWludGVsaWdlbmNpYS1hcnRpZmljaWFsLWF5dWRhci1hLWRlc2NhcmJvbml6YXItbGFzLWVtcHJlc2Fz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:21:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Marketscreener DE",
+            "title": "IAA : Automesse beginnt - Chinesische Autobauer im Rampenlicht - Marketscreener DE",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2RlLm1hcmtldHNjcmVlbmVyLmNvbS9rdXJzL2FrdGllL0JNVy1BRy01NjM1ODM1My9uZXdzL0lBQS1BdXRvbWVzc2UtYmVnaW5udC1DaGluZXNpc2NoZS1BdXRvYmF1ZXItaW0tUmFtcGVubGljaHQtNDQ3NjE4OTQv0gGGAWh0dHBzOi8vZGUubWFya2V0c2NyZWVuZXIuY29tL2FtcC9rdXJzL2FrdGllL0JNVy1BRy01NjM1ODM1My9uZXdzL0lBQS1BdXRvbWVzc2UtYmVnaW5udC1DaGluZXNpc2NoZS1BdXRvYmF1ZXItaW0tUmFtcGVubGljaHQtNDQ3NjE4OTQv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:19:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Notebookcheck.com",
+            "title": "Aldi verkauft wasserdichten GPS-Tracker Cobblestone als AirTag-Alternative zum aktuellen Bestpreis - Notebookcheck.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLmNvbS9BbGRpLXZlcmthdWZ0LXdhc3NlcmRpY2h0ZW4tR1BTLVRyYWNrZXItQ29iYmxlc3RvbmUtYWxzLUFpclRhZy1BbHRlcm5hdGl2ZS16dW0tYWt0dWVsbGVuLUJlc3RwcmVpcy43NDQwNjUuMC5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "t-online",
+            "title": "Was wird aus meiner Deutschland-Card? Supermarkt Edeka wechselt zu Payback - t-online",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy50LW9ubGluZS5kZS9sZWJlbi9ha3R1ZWxsZXMvaWRfMTAwMjM1NzE2L3dhcy13aXJkLWF1cy1tZWluZXItZGV1dHNjaGxhbmQtY2FyZC1zdXBlcm1hcmt0LWVkZWthLXdlY2hzZWx0LXp1LXBheWJhY2suaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "APA OTS",
+            "title": "Exemplar der Leica 0-Serie (1923) kommt am 07. Oktober 2023 in Wetzlar zur Versteigerung - APA OTS",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5vdHMuYXQvcHJlc3NlYXVzc2VuZHVuZy9PVFNfMjAyMzA5MDNfT1RTMDAxNS9leGVtcGxhci1kZXItbGVpY2EtMC1zZXJpZS0xOTIzLWtvbW10LWFtLTA3LW9rdG9iZXItMjAyMy1pbi13ZXR6bGFyLXp1ci12ZXJzdGVpZ2VydW5nLWJpbGTSAS9odHRwczovL3d3dy5vdHMuYXQvYW1wL3ByL09UU18yMDIzMDkwM19PVFMwMDE1Lw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:14:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "9News",
+            "title": "Aussies forced to choose between heating homes or eating meals, new data finds - 9News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvY29zdC1vZi1saXZpbmctYXVzdHJhbGlhbnMtZm9yY2VkLXRvLWNob29zZS1iZXR3ZWVuLWhlYXRpbmctaG9tZXMtb3ItZWF0aW5nLW1lYWxzL2RhYWRhMGVmLTY3ZTktNDBmYi05ZjNhLWQzYjUzNmY3MmY0Y9IBRWh0dHBzOi8vYW1wLjluZXdzLmNvbS5hdS9hcnRpY2xlL2RhYWRhMGVmLTY3ZTktNDBmYi05ZjNhLWQzYjUzNmY3MmY0Yw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:11:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Populaire du Centre",
+            "title": "Un monde fou aux cent vingt ans de Harley-Davidson à Limoges - Limoges (87000) - Le Populaire du Centre",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmxlcG9wdWxhaXJlLmZyL2xpbW9nZXMtODcwMDAvbG9pc2lycy91bi1tb25kZS1mb3UtYXV4LWNlbnQtdmluZ3QtYW5zLWRlLWhhcmxleS1kYXZpZHNvbi1hLWxpbW9nZXNfMTQzNjQ3NDgv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "France 3 Régions",
+            "title": "Faits divers. Vol de carburant : le coup de gueule du patron d'une société de transports du Morbihan - France 3 Régions",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMisAFodHRwczovL2ZyYW5jZTMtcmVnaW9ucy5mcmFuY2V0dmluZm8uZnIvYnJldGFnbmUvbW9yYmloYW4vcG9udGl2eS9mYWl0cy1kaXZlcnMtdm9sLWRlLWNhcmJ1cmFudC1sZS1jb3VwLWRlLWd1ZXVsZS1kdS1wYXRyb24tZC11bmUtc29jaWV0ZS1kZS10cmFuc3BvcnRzLWR1LW1vcmJpaGFuLTI4MzMyMDUuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:05:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Real Estate Market & Lifestyle",
+            "title": "Mercado residencial de Asia-Pacífico continúa mostrando resiliencia - Real Estate Market & Lifestyle",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3JlYWxlc3RhdGVtYXJrZXQuY29tLm14L25vdGljaWFzL21lcmNhZG8taW5tb2JpbGlhcmlvL3ZpdmllbmRhLzQyODEwLW1lcmNhZG8tcmVzaWRlbmNpYWwtZGUtYXNpYS1wYWNpZmljby1jb250aW51YS1tb3N0cmFuZG8tcmVzaWxpZW5jaWHSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:03:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN GREECE",
+            "title": "Σπάνιες Γαίες στην Ελλάδα: Γάλλιο, γερμάνιο και αντιμόνιο φέρνουν στρατηγική αυτονομία - CNN GREECE",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jbm4uZ3Ivb2lrb25vbWlhL2FuYXB0eXhpL3N0b3J5LzM3OTkzOC9zcGFuaWVzLWdhaWVzLXN0aW4tZWxsYWRhLWdhbGxpby1nZXJtYW5pby1rYWktYW50aW1vbmlvLWZlcm5vdW4tc3RyYXRpZ2lraS1hZnRvbm9taWHSAYsBaHR0cHM6Ly93d3cuY25uLmdyL29pa29ub21pYS9hbmFwdHl4aS9zdG9yeS8zNzk5Mzgvc3Bhbmllcy1nYWllcy1zdGluLWVsbGFkYS1nYWxsaW8tZ2VybWFuaW8ta2FpLWFudGltb25pby1mZXJub3VuLXN0cmF0aWdpa2ktYWZ0b25vbWlhL2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:02:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Car and Driver ",
+            "title": "Geometry Panda Knight: Conoce el mini Bronco eléctrico de Geely - Car and Driver ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNhcmFuZGRyaXZlci5jb20vZXMvY29jaGVzL3BsYW5ldGEtbW90b3IvYTQ0OTI1OTQ3L2dlb21ldHJ5LXBhbmRhLWtuaWdodC1taW5pLWJyb25jby1nZWVseS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:01:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times (Español)",
+            "title": "Qué son los deepfakes de voz, la n ueva estafa bancaria - The New York Times (Español)",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2VzLzIwMjMvMDkvMDMvZXNwYW5vbC9sb3MtZGVlcGZha2VzLWRlLXZvei12YW4tYS1wb3ItdHVzLWFob3Jyb3MuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-03T09:00:56Z",
+            "content": null
+        }
+    ]
+}
