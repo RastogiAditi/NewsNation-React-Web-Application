@@ -1,11 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 
-export default class NavBar extends Component {
-  render() {
+const NavBar=()=> {
+  
     return (
       <div>
-        <nav className="navbar navbar-expand-lg navbar-light bg-blue">
+        <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-blue">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
             {/* <div>  <img
@@ -82,7 +82,12 @@ export default class NavBar extends Component {
             </div>
           </div>
         </nav>
+        <div className="text-center fixed-bottom text-dark p-3" style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
+          © 2023 Copyright: Aditi Rastogi
+        
+        </div>
       </div>
-    );
-  }
+    )
+  
 }
+export default NavBar;
