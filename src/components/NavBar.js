@@ -5,7 +5,7 @@ const NavBar=()=> {
   
     return (
       <div>
-        <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-blue">
+        <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-blue bg-info">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
             {/* <div>  <img

@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+#myDIV {
+  width: 600px;
+  height: 300px;
+  padding-left: 100%;
+  border: 0px solid white;
+  background-image: url('components/result.gif');
+  background-position: top-bottom;
+  background-size: 12em;
+  animation-direction: reverse;
+  animation: mymove 20s infinite;
+  background-repeat: no-repeat;
+}
+
+@keyframes mymove {
+  25% {background-position: bottom;}
+  50%{background-position:right;}
+  75% {background-position: top;}
+  100% {background-position: left;}
+}
